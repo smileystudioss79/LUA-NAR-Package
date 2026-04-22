@@ -20,9 +20,9 @@ scripts. The C# DLL (LUA-NAR.dll) must be installed separately
 from the mod's GameData release.
     ]],
     license    = "All Rights Reserved",
-    homepage   = "https://github.com/smileystudioss79/LUA-NAR",
-    issues_url = "https://github.com/smileystudioss79/LUA-NAR/issues",
-    maintainer = "smileystudioss79 <>",
+    homepage   = "https://github.com/YOUR_USER/LUA-NAR-Package",
+    issues_url = "https://github.com/YOUR_USER/LUA-NAR-Package/issues",
+    maintainer = "YOUR NAME <your@email.com>",
     labels     = {
         "ksp", "kerbal-space-program", "scripting",
         "autopilot", "flight", "simulation", "moonsharp"
@@ -34,7 +34,7 @@ dependencies = {
 }
 
 source = {
-    url = "git+https://github.com/smileystudioss79/LUA-NAR.git",
+    url = "git+https://github.com/YOUR_USER/LUA-NAR-Package.git",
     tag = "v1.0.1",
 }
 
